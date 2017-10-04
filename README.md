@@ -1,4 +1,4 @@
-# Ubuntu 17.04 LTS (Xenial) Ansible Test Image
+# Ubuntu 17.04 LTS Ansible Test Image
 
 [![Docker Automated build](https://img.shields.io/docker/automated/v0rts/docker-ubuntu1704-ansible.svg?maxAge=2592000)](https://hub.docker.com/r/v0rts/docker-ubuntu1704-ansible/)
 
